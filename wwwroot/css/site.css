@@ -49,3 +49,7 @@ ul.products-props {
     border: 1px solid black;
     max-width: 150px;
   }
+
+menu>ul>li {
+  display: inline;
+}
